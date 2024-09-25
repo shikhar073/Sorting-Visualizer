@@ -7,4 +7,3 @@ Play Button: Click "play" to initiate the bubble sort animation. Watch as the al
 
 Immerse yourself in the step-by-step process of bubble sort, gaining insights into its mechanics and efficiency as it rearranges the elements in real-time. Perfect for learning and understanding sorting algorithms interactively.
 
-Live Demo: http://127.0.0.1:5500/index.html
